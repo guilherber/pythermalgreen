@@ -1,8 +1,8 @@
-##PyThermalGreen
+## PyThermalGreen
 
 Collaborative project to obtain urban heat island patches through Remote Senroriamento.
 
-#How to execute?
+# How to execute?
 
 Python3
 Rasterio
@@ -11,6 +11,6 @@ Geopandas
 
 The project initially requires raster files processed for NDVI and Earth Surface Temperature to process urban heat island spaces.
 
-#Important Details
+# Important Details
 
 Use the same geographic projection for interpretation
