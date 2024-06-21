@@ -1,5 +1,4 @@
-# PyThermalGreen
-
+# PyGreenCity
 Collaborative project to obtain urban heat island patches through Remote Sensing.
 
 ## How to execute?
