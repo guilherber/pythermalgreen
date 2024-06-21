@@ -21,7 +21,7 @@ thermal_green = PyThermalGreen('tst_file_path', 'ndvi_file_path', 'output_file_p
 
 This is an output example of a .tif file using PyThermalGreen
 
-![image](https://raw.githubusercontent.com/guilherber/PyThermalGreen/docs/example.png)
+![image](https://raw.githubusercontent.com/guilherber/PyThermalGreen/docs/example.jpg)
 
 ## Important Details
 
