@@ -19,7 +19,7 @@ To run the code you just need to use the function
 
 thermal_green = PyThermalGreen('tst_file_path', 'ndvi_file_path', 'output_file_path')
 
-This is an output example of a .tif file using PyThermalGreen
+This is an output example of a .tif file using PyThermalGreen:
 
 ![texto alternativo](https://github.com/guilherber/PyThermalGreen/raw/main/docs/example.jpg)
 
