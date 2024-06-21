@@ -4,10 +4,10 @@ Collaborative project to obtain urban heat island patches through Remote Sensing
 
 ## How to execute?
 
-Python3
-Rasterio
-Pandas
-Geopandas
+* Python3
+* Rasterio
+* Pandas
+* Geopandas
 
 The project initially requires raster files processed for NDVI and Earth Surface Temperature to process urban heat island spaces.
 
@@ -15,3 +15,6 @@ The project initially requires raster files processed for NDVI and Earth Surface
 
 Use the same geographic projection for interpretation
 
+## Collab
+
+To collaborate, do not hesitate to send an email to (guissan.gui@gmail.com)
