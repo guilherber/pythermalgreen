@@ -54,7 +54,7 @@ class PyThermalGreen:
         quartis_temperatura = np.percentile(df['TST'], [25, 50, 75])
 
         def condicao_alta_temperatura_e_baixo_ndvi(temperatura, ndvi):
-            if temperatura >= quartis_temperatura[2] and ndvi < 0.5: 
+            if temperatura >= quartis_temperatura[2] and ndvi < 0.6: 
                 return 1
             else:
                 return 0
