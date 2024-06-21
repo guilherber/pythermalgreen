@@ -1,6 +1,6 @@
 ## PyThermalGreen
 
-Collaborative project to obtain urban heat island patches through Remote Senroriamento.
+Collaborative project to obtain urban heat island patches through Remote Sensing.
 
 # How to execute?
 
@@ -14,3 +14,4 @@ The project initially requires raster files processed for NDVI and Earth Surface
 # Important Details
 
 Use the same geographic projection for interpretation
+
