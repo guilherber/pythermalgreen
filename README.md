@@ -29,4 +29,4 @@ Use the same geographic projection for interpretation
 
 ## Collab
 
-To collaborate, do not hesitate to send an email to (guissan.gui@gmail.com)
+To collaborate, do not hesitate to send an e-mail to (guissan.gui@gmail.com)
