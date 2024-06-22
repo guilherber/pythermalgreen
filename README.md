@@ -44,7 +44,7 @@ To collaborate, do not hesitate to send an e-mail to (guissan.gui@gmail.com).
 * Landim-Santos, G. Infraestutura verde como estratégia para áreas passíveis de plantio com risco ambiental no município de Piracicaba, SP, pela inferencia booleana (2024);
 * Guha, S., Govil H. Land Surface temperature and normalized difference vegetation index relationship: a seasonal study on a tropical city. (2020);
 * Lombardo, M. Estudos de ilha de calor (1985);
-* Turner, G,M. Gardner, H,M Landscape Ecology in theory and pratice (2015).
+* Turner, G,M. Gardner, H,M Landscape Ecology in theory and pratice (2015);
 * Waleed, M. Sajjad, M. Leveraging cloud-based computing and spatial modelling approaches for land surface temperature disparities in reponse to land cover change: Evidence from Pakistan (2022).
 
 
