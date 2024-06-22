@@ -39,3 +39,10 @@ This is an example output of a .tif file using PyThermalGreen:
 ## 🙌 Contribute!
 
 To collaborate, do not hesitate to send an e-mail to (guissan.gui@gmail.com).
+
+## Bibliography
+
+* Guha, S., Govil H. Land Surface temperature and normalized difference vegetation index relationship: a seasonal study on a tropical city. (2020);
+* Lombardo, M. Estudos de ilha de calor (1985)
+
+
