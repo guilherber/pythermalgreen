@@ -17,7 +17,7 @@ output = 'way/to/save/your/file.tif'
 ```
 To run the code you just need to use the function
 ```
-import pythermalgreen
+from pythermalgreen import pythermalgreen
 
 thermal_green = pythermalgreen(tst_file, ndvi_file, output)
 ```
