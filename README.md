@@ -6,7 +6,7 @@ Collaborative project to obtain urban heat island patches through Remote Sensing
 You can install the library using Python pip.
 
 ```
-pip install PyThermalGreen
+pip install pythermalgreen
 ```
 
 The project initially requires raster files processed for NDVI and Earth Surface Temperature to process urban heat island spaces.
