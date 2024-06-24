@@ -28,7 +28,7 @@ To run the code, you just need to use the function:
 from pythermalgreen import pythermalgreen
 
 thermal_green = pythermalgreen(tst_file, ndvi_file, output)
-thermal-green.process()  #run pythermalgreen
+thermal_green.process()  #run pythermalgreen
 ```
 This is an example output of a .tif file using PyThermalGreen:
 ![texto alternativo](https://github.com/guilherber/PyThermalGreen/raw/main/docs/example.jpg)
