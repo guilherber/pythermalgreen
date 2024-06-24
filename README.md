@@ -35,7 +35,12 @@ This is an example output of a .tif file using PyThermalGreen:
 ## 🔗 Important Details
 
 * Use the same geographic projection for interpretation.
-
+* Install requires: 
+* 'numpy>=1.22.0'
+* 'rasterio==1.3.10',
+* 'geopandas==0.14.4',
+* 'pandas<=2.2.2',
+* 'shapely==2.0.4'
 ## 🙌 Contribute!
 
 To collaborate, do not hesitate to send an e-mail to (guissan.gui@gmail.com).
