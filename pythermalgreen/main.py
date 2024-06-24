@@ -11,7 +11,7 @@ import numpy as np
 from rasterio import features
 
 
-class PyThermalGreen:
+class pythermalgreen:
     def __init__(self, tst_file, ndvi_file, output):
         self.tst_file = tst_file
         self.ndvi_file = ndvi_file
