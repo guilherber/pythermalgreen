@@ -1,4 +1,4 @@
-# 🚀 pythermalgreen 0.2.2
+# 🚀 pythermalgreen 0.2.4
 Collaborative project to obtain urban heat island patches through Remote Sensing.
 
 ## 🎯 Functions
@@ -28,6 +28,7 @@ To run the code, you just need to use the function:
 from pythermalgreen import pythermalgreen
 
 thermal_green = pythermalgreen(tst_file, ndvi_file, output)
+thermal-green.process()  #run pythermalgreen
 ```
 This is an example output of a .tif file using PyThermalGreen:
 ![texto alternativo](https://github.com/guilherber/PyThermalGreen/raw/main/docs/example.jpg)
