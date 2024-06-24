@@ -1,1 +1,1 @@
-from .main import PyThermalGreen
+from .main import pythermalgreen
