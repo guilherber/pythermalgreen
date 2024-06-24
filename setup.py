@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pythermalgreen',
-    version='0.2',
+    version='0.2.4',
     author='Guilherme Landim-Santos',
     author_email='guisaan.gui@gmail.com',
     packages=find_packages(),
