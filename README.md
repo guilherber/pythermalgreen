@@ -1,4 +1,4 @@
-# 🚀 pythermalgreen 0.2
+# 🚀 pythermalgreen 0.2.1
 Collaborative project to obtain urban heat island patches through Remote Sensing.
 
 ## 🎯 Functions
