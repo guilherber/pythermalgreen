@@ -42,7 +42,7 @@ To collaborate, do not hesitate to send an e-mail to (guissan.gui@gmail.com).
 
 ## Citations
 
-Landim-Santos, G. pythermalgreen: Fundamental algorith to ambiental analisys (2024)
+Landim-Santos, G. pythermalgreen: Fundamental algorithm to ambiental analisys (2024)
 
 
 ## 📚 Bibliography
