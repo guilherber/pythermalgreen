@@ -49,7 +49,8 @@ This is an example output of a .tif file using PyThermalGreen:
 * 'geopandas==0.14.4',
 * 'pandas<=2.2.2',
 * 'shapely==2.0.4'
-* 'pylandstats'
+* 'pylandstats==2.4.2'
+
 ## 🙌 Contribute!
 
 To collaborate, do not hesitate to send an e-mail to (guissan.gui@gmail.com).
