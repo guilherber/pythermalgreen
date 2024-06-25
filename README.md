@@ -35,6 +35,7 @@ To compute landscape metrics, run:
 ```
 thermal_green.metrics() 
 ```
+To better understand landscape metrics, visit: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225734
 
 
 This is an example output of a .tif file using PyThermalGreen:
