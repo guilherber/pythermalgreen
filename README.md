@@ -38,7 +38,7 @@ thermal_green.metrics()
 
 
 This is an example output of a .tif file using PyThermalGreen:
-![texto alternativo](https://github.com/guilherber/PyThermalGreen/raw/main/docs/example.jpg)
+![texto alternativo](https://github.com/guilherber/PyThermalGreen/raw/main/docs/ilha.jpg)
 
 ## 🔗 Important Details
 
