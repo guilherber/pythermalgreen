@@ -58,7 +58,7 @@ To collaborate, do not hesitate to send an e-mail to (guissan.gui@gmail.com).
 
 ## Citations
 
-Landim-Santos, G. pythermalgreen: Fundamental algorithm to ambiental analisys (2024)
+* Landim-Santos, G. Infraestutura verde como estratégia para áreas passíveis de plantio com risco ambiental no município de Piracicaba, SP, pela inferencia booleana (2024);
 
 
 ## 📚 Bibliography
