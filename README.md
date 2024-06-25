@@ -1,4 +1,4 @@
-# 🚀 pythermalgreen 0.2.4
+# 🚀 pythermalgreen 0.2.6
 Collaborative project to obtain urban heat island patches through Remote Sensing.
 
 ## 🎯 Functions
@@ -30,6 +30,13 @@ from pythermalgreen import pythermalgreen
 thermal_green = pythermalgreen(tst_file, ndvi_file, output)
 thermal_green.process()  #run pythermalgreen
 ```
+
+To get landscape metrics, run:
+```
+thermal_green.metrics() 
+```
+
+
 This is an example output of a .tif file using PyThermalGreen:
 ![texto alternativo](https://github.com/guilherber/PyThermalGreen/raw/main/docs/example.jpg)
 
@@ -42,6 +49,7 @@ This is an example output of a .tif file using PyThermalGreen:
 * 'geopandas==0.14.4',
 * 'pandas<=2.2.2',
 * 'shapely==2.0.4'
+* 'pylandstats'
 ## 🙌 Contribute!
 
 To collaborate, do not hesitate to send an e-mail to (guissan.gui@gmail.com).
@@ -56,6 +64,7 @@ Landim-Santos, G. pythermalgreen: Fundamental algorithm to ambiental analisys (2
 * Guha, S., Govil H. Land Surface temperature and normalized difference vegetation index relationship: a seasonal study on a tropical city. (2020);
 * Lombardo, M. Estudos de ilha de calor (1985);
 * Turner, G,M. Gardner, H,M Landscape Ecology in theory and pratice (2015);
-* Waleed, M. Sajjad, M. Leveraging cloud-based computing and spatial modelling approaches for land surface temperature disparities in reponse to land cover change: Evidence from Pakistan (2022).
+* Waleed, M. Sajjad, M. Leveraging cloud-based computing and spatial modelling approaches for land surface temperature disparities in reponse to land cover change: Evidence from Pakistan (2022);
+* Bosch M. 2019. “PyLandStats: An open-source Pythonic library to compute landscape metrics”. PLOS ONE, 14(12), 1-19. doi.org/10.1371/journal.pone.0225734
 
 
