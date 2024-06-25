@@ -31,7 +31,7 @@ thermal_green = pythermalgreen(tst_file, ndvi_file, output)
 thermal_green.process()  #run pythermalgreen
 ```
 
-To get landscape metrics, run:
+To compute landscape metrics, run:
 ```
 thermal_green.metrics() 
 ```
