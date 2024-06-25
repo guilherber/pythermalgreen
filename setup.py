@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pythermalgreen',
-    version='0.2.4',
+    version='0.2.6',
     author='Guilherme Landim-Santos',
     author_email='guisaan.gui@gmail.com',
     packages=find_packages(),
@@ -15,7 +15,8 @@ setup(
         'rasterio==1.3.10',
         'geopandas==0.14.4',
         'pandas<=2.2.2',
-        'shapely==2.0.4'
+        'shapely==2.0.4',
+        'pylandstats==2.4.2'
     ],
     entry_points={
         "cosole_scripts":{
